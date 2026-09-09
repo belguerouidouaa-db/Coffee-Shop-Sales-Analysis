@@ -91,7 +91,9 @@ The dashboard also uses custom tooltips to provide additional context when explo
 
 ### Dashboard Preview
 
-![Coffee Shop Sales Dashboard](assets/coffee-shop-dashboard.png)
+<p align="center">
+  <img src="assets/coffee-shop-dashboard.png" alt="Coffee Shop Sales Dashboard" width="100%">
+</p>
 
 ---
 
